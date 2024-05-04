@@ -1,0 +1,13 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-05-01 18:35 CEST
+Nmap scan report for 192.168.1.123
+Host is up (0.00059s latency).
+Not shown: 195 open|filtered udp ports (no-response)
+PORT     STATE  SERVICE
+9/udp    closed discard
+37/udp   closed time
+389/udp  closed ldap
+4045/udp closed lockd
+5060/udp closed sip
+MAC Address: 08:00:27:41:DE:D8 (Oracle VirtualBox virtual NIC)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.50 seconds

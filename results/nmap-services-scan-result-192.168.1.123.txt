@@ -1,0 +1,14 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-05-01 18:34 CEST
+Nmap scan report for 192.168.1.123
+Host is up (0.00071s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.6 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey:
+|   256 7a:62:2d:5b:6d:c6:e4:79:28:1b:0e:72:1a:89:31:9e (ECDSA)
+|_  256 af:7f:0d:3b:bd:59:33:26:8d:2a:8c:7a:a3:fb:99:a2 (ED25519)
+MAC Address: 08:00:27:41:DE:D8 (Oracle VirtualBox virtual NIC)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.71 seconds
